@@ -1,4 +1,4 @@
-Hi, I'm Raymond! I am currently a 4th year student studying computer science, life science and earth and ocean science at the University of British Columbia. I have a passion for web development and enjoy learning new technologies!
+Hi, I'm Raymond! I am currently a 4th year student studying computer science, life science and environmental science at the University of British Columbia. I have a passion for web development and enjoy learning new technologies!
 
 ## Languages & Tools:
 <div style="display: inline-block">
