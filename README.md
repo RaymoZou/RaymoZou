@@ -1,4 +1,4 @@
-Hi, I'm Raymond! I am currently a 4th year student studying computer science, life science and environmental science at the University of British Columbia. I have a passion for web development and enjoy learning new technologies! I am currently interested in learning about graphics programming and game development.
+Hi, I'm Raymond! I am a recent grad who studied computer science, life science and environmental sciences at the UBC. I have a passion for web development and enjoy learning new technologies! I am currently interested in learning about graphics programming and game development.
 
 ## Languages & Tools:
 <div style="display: inline-block">
